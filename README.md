@@ -86,3 +86,10 @@ public class App {
 }
 
 ```
+
+The above implementation have runtime complexity of O(m * n) and space complexity of O(1), where m is number of rows in input matrix and n is the number of columns in the input matrix.
+
+```
+Runtime Complexity = O(m*n)
+Space Complexity   = O(1)
+```
