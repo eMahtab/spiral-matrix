@@ -21,6 +21,11 @@ Output: [1, 2, 3, 4, 8, 12, 16, 20, 19, 18, 17, 13, 9, 5, 6, 7, 11, 15, 14, 10]
 
 ![Spiral Traversal of a 2D Matrix](spiral-traversal.PNG?raw=true "Spiral Traversal of a 2D Matrix")
 
+![Spiral Traversal of a 2D Matrix](example.PNG?raw=true "Spiral Traversal of a 2D Matrix")
+
+![Spiral Traversal of a 2D Matrix](examples-2.PNG?raw=true "Spiral Traversal of a 2D Matrix")
+
+
 ### Implementation
 
 ```java
